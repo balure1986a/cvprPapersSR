@@ -1,0 +1,11 @@
+Super resolution papers
+------------------------
+
+poster 2a - Sparse Depth Super Resolution - page 3
+poster 2a - Defocus Deblurring and Superresolution for Time-of-Flight Depth Cameras - page 17
+
+poster 2b - Fast and Accurate Image Upscaling with Super-Resolution Forests - page 49
+
+poster 3b - Handling Motion Blur in Multi-Frame Super-Resolution - page 85
+poster 3b - Single Image Super-resolution from Transformed Self-Exemplars - page 82
+poster 3b - Modeling Deformable Gradient Compositions for Single-Image Super-resolution - page 106

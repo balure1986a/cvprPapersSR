@@ -1,0 +1,39 @@
+CVPR 2014
+----------------
+
+* Similarity-Aware Patchwork Assembly for Depth Image Super-Resolution, Jing Li, Zhichao Lu, Gang Zeng, Rui Gan, Hongbin Zha
+
+* Super-Resolving Noisy Images, Abhishek Singh, Fatih Porikli, Narendra Ahuja
+
+* Single Image Super-resolution using Deformable Patches, Yu Zhu, Yanning Zhang, Alan L. Yuille
+
+
+CVPR 2013
+----------------
+* Simultaneous Super-Resolution of Depth and Images Using a Single Camera, Hee Seok Lee, Kyoung Mu Lee
+
+* Fast Image Super-Resolution Based on In-Place Example Regression, Jianchao Yang, Zhe Lin, Scott Cohen
+
+* On a Link Between Kernel Mean Maps and Fraunhofer Diffraction, with an Application to Super-Resolution Beyond the Diffraction Limit, Stefan Harmeling, Michael Hirsch, Bernhard Schölkopf
+
+* Depth Super Resolution by Rigid Body Self-Similarity in 3D, Michael Hornácek, Christoph Rhemann, Margrit Gelautz, Carsten Rother
+
+* Beta Process Joint Dictionary Learning for Coupled Feature Spaces with Application to Single Image SuperResolution, Li He, Hairong Qi, Russell Zaretzki
+
+
+CVPR 2012
+----------------
+* Multi-scale Dictionary for Single Image Super-resolution, Kaibing Zhang, Xinbo Gao, Dacheng Tao, Xuelong Li
+
+* Geometry Constrained Sparse Coding for Single Image Super-resolution. Xiaoqiang Lu, Haoliang Yuan, Pingkun Yan, Yuan Yuan, Xuelong Li
+
+* Semi-Coupled Dictionary Learning with Applications to Image Super-Resolution and Photo-Sketch Image Synthesis, Shenlong Wang, Lei Zhang, Van Liang, Quan Pan
+
+
+CVPR 2010
+----------------
+* Super Resolution using Edge Prior and Single Image Detail Synthesis, Yu-Wing Tai, Shuaicheng Liu, Michael S. Brown, Stephen Lin
+
+* Context-Constrained Hallucination for Image Super-Resolution, Jian Sun, Jiejie Zhu, Marshall F. Tappen
+
+* 
